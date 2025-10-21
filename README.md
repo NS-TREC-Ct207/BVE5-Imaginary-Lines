@@ -98,9 +98,16 @@ E-Mail: NS.hrtrec@outlook.com
 
 /////
 
+NSHR450N Driving keys:
+ATO Mode selector: ATS_B2 (End)
+ATO Started: ATS_C1+ATS_C2 (Page Up+Page Down)
+
+/////
+
 Updating Logs:
 2025/02/21, V0.1 incomplete TEST;
 2025/04/02, V0.5 incomplete TEST. Updated Himayama, Touhou Express and TEST360 services;
 2025/04/03, V0.51 Updated 'ReadMe.txt' (Remind players to use BveEx);
 2025/04/12, V0.6 Update the 'Himayama 1','Kasei 31' and 'Hazaka 101' scenarios (please delete all the old files (Before V0.51));
 2025/10/21, V0.7 Important Update (please delete all the old files).
+2025/10/21, V0.71 Important Update (please delete all the old files).
